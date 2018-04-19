@@ -48,12 +48,12 @@
     </front>
     <body>
       <div xml:id="jwbl-c6">
-        <head>CAP. VI</head>
-        <head type="question-title">Vbi inuenitur sapientia ista, et a quibus?</head>
-        <p>Vbi autem inuenitur haec sapientia, et a quibus, et qualiter? Iob. 28. <quote>nescit homo pretium eius, non inuenitur in terra suauiter viuentium; Abyssus dicit: non est in me, et mare loquitur: non est mecum</quote>; quod exponit Gregor. proxime citatus, de hominibus carnalibus, superbis, et cupidis, a quibus sapientia ista absconditur. Matth. 11. <quote>Abscondisti haec a sapientibus, et prudentibus, et reuelasti ea paruulis</quote>. Haec enim inuenitur ab animabus sanctitate puris, et mundis, et sic sub Deo ordinatis: <quote>in animas sanctas se transfert</quote>. Sap. 7 et Eccles. 2. <quote>fili, concupiscens sapientiam serua iustitiam, et Deus praebebit illam tibi</quote>.</p>
-        <p>31	Item inuenitur ab animabus eleuatis a mundi turbinibus, et tumultibus, et sollicitudinibus. Eccles. 38. <quote>Sapientiam scribe in tempore vacuitatis, et qui minoratur actu, sapientiam percipiet, quia sapientia replebitur</quote>.
-          Item inuenitur ab animabus humilitate virtuosis, talibus enim reuelat sapientiam suam Deus: <quote>vbi humilitas, ibi sapientia</quote> Prouer. 11.
-          Item inuenitur ab animabus deuotione feruidis, et contemplatione eleuatis. Sap. 7. <quote>Optaui, et datus est mihi sensus, inuocaui, et venit in me spiritus sapientiae</quote>. Patet ergo huius sapientiae inexplicabilis eminentia. Vnde et omnia, quae dicta sunt prius ad commendationem philosophiae humanae, magis proprie, et verius competunt huic verae sapientiae.</p>
+        <head xml:id="jwbl-c6-Hd1e104">CAP. VI</head>
+        <head xml:id="jwbl-c6-Hd1e107" type="question-title">Vbi inuenitur sapientia ista, et a quibus?</head>
+        <p xml:id="jwbl-c6-d1e110">Vbi autem inuenitur haec sapientia, et a quibus, et qualiter? Iob. 28. <quote xml:id="jwbl-c6-Qd1e112">nescit homo pretium eius, non inuenitur in terra suauiter viuentium; Abyssus dicit: non est in me, et mare loquitur: non est mecum</quote>; quod exponit Gregor. proxime citatus, de hominibus carnalibus, superbis, et cupidis, a quibus sapientia ista absconditur. Matth. 11. <quote xml:id="jwbl-c6-Qd1e115">Abscondisti haec a sapientibus, et prudentibus, et reuelasti ea paruulis</quote>. Haec enim inuenitur ab animabus sanctitate puris, et mundis, et sic sub Deo ordinatis: <quote xml:id="jwbl-c6-Qd1e118">in animas sanctas se transfert</quote>. Sap. 7 et Eccles. 2. <quote xml:id="jwbl-c6-Qd1e121">fili, concupiscens sapientiam serua iustitiam, et Deus praebebit illam tibi</quote>.</p>
+        <p xml:id="jwbl-c6-d1e125">31	Item inuenitur ab animabus eleuatis a mundi turbinibus, et tumultibus, et sollicitudinibus. Eccles. 38. <quote xml:id="jwbl-c6-Qd1e127">Sapientiam scribe in tempore vacuitatis, et qui minoratur actu, sapientiam percipiet, quia sapientia replebitur</quote>.
+          Item inuenitur ab animabus humilitate virtuosis, talibus enim reuelat sapientiam suam Deus: <quote xml:id="jwbl-c6-Qd1e130">vbi humilitas, ibi sapientia</quote> Prouer. 11.
+          Item inuenitur ab animabus deuotione feruidis, et contemplatione eleuatis. Sap. 7. <quote xml:id="jwbl-c6-Qd1e133">Optaui, et datus est mihi sensus, inuocaui, et venit in me spiritus sapientiae</quote>. Patet ergo huius sapientiae inexplicabilis eminentia. Vnde et omnia, quae dicta sunt prius ad commendationem philosophiae humanae, magis proprie, et verius competunt huic verae sapientiae.</p>
       </div>
     </body>
   </text>
