@@ -8,6 +8,10 @@
           <name xml:id="JW">Jeffrey C. Witt</name>
           <resp>TEI encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#ChrisNighman">Chris Nighman</name>
+          <resp>Transcriber</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev"> 
