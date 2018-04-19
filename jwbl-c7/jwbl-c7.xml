@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cap. VII</title>
+        <author ref="#JohnOfWales">John of Wales</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> 
+          <title>Cap. VI</title> 
+          <date when="2018-04-19">May 19, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority> 
+          <ref>SCTA</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-04-19" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="jwbl-c7">
+        <head>CAP. VII</head>
+        <head type="question-title">De supereminentia sapientiae Sanctorum respectu mundanorum in vita, et in operibus.</head>
+        
+        <p>De eminentia vero sapientium hac vera philosophia, et sapientia saluifica praedictorum planum est. Ipsi enim sunt philosophi veri, id est, amatores verae sapientiae. Sicut philosophus est cognitor, amator, et imitator Dei secundum Platonem, vt ait Aug. 8. de ciuit. c. 4. cum praedicti sapientes sint tales in rei veritate, ipsi sunt philosophi excellentiores incomparabiliter omnibus philosophis mundanis. Et de ista excellentia agitur in Vitis Patrum lib. 2. vbi de patientia Sanctorum. Ibi enim narratur, quod philosophi venerunt probare Monachos, venitque vnus Monachus bene indutus, et dixerunt philosophi: veni huc. Ille indignatus, iniuriis aggressus est eos. Transiuit autem alius, genere rusticus, et dixerunt, tu Monache, male senex, veni huc; et ille cursim venit, et coeperunt alapas ei dare. Ille vero aliam maxillam conuertit, vt alteram alapam reciperet. At illi adorauerunt eum, dicentes. Monachus est iste. Et interrogauerunt eum, quid est quod nobis plus facitis? vos enim ieiunatis, corpora castigatis, sic et nos facimus. At ille: nos, inquit, in gratia Dei speramus, et per eam mentem nostram custodimus. At illi: haec nos custodire non possumus. Euidenter ergo apparet supereminentia perfectionis fidelium philosophorum, et diuinorum respectu mundanorum, quia ipsi custodiunt mentem ab exterioribus deordinationibus, nec non et exteriorem hominem ab exterioribus prauitatibus ex vera credulitate in verum Saluatorem ob spem vitae aeternae. Philosophi autem etsi exterius continuerunt se ab exterioribus imperfectionibus, non tamen continuerunt interius ex fide purificante, nec ob spem vitae aeternae.</p>
+        <p>Et de excessu istorum philosophorum verorum respectu aliorum Tertull. in Apolog. c. 46. disputans contra aduersarium prolixe, ait; Eadem, inquit aduersarius, philosophi monent, atque profitentur, scilicet innocentiam, iustitiam, patientiam, sobrietatem, pudicitiam, sicut Christiani. Et sequitur. Quomodo ergo Christiani excellunt philosophis? Mimice (inquit Tertullianus) philosophi affectant veritatem, et affectando corrumpunt, vt qui gloriam captant. Christiani eam necessario appetunt, et integre praestant, vt qui saluti suae curant, adeo neque de conscientia, neque de disciplina, vt putatis, aequamur. Et addit. Nomen hoc philosophorum daemonia non fugat; nec ducuntur ad passiones nolentes sacrificare, sicut Christiani.</p>
+        <p>Si de pudicitia prouocemus, similiter patet excessus, quia lego partem sententiae Atticae in Socratem, corruptorem adolescentium pronunciatam; foemineum sexum nec mutat Christianus. Noui et Phrynen, mereticem Diogenis, supra recubantis ardorem subantem. Audio et quendam Speusippum de Platonis schola, in adulterio periisse: Christianus vxori suae soli masculus nascitur. Democritus excoecando semetipsum, quod mulieres sine concupiscentia aspicere non posset, et doleret, si non esset potitus, incontinentiam emendatione profitetur. At Christianus saluis oculis foeminas videt, animo aduersus libidinem coecus est. Si de probitate defendam, ecce lutulentis pedibus Diogenes superbos Platonis thoros alia superbia deculcat; Christianus nec in pauperem superbit. Si de modestia certem, ecce Pythagoras apud Thirios, Zeno apud Prienenses tyrannidem affectant; Christianus vero nec aedilitatem. Si de aequanimitate congrediar, Lycurgus apocarteresin optauit, quod leges eius Lacones emendassent;
+          Christianus etiam damnatus gratias agit. Si de fide comparem, Anaxagoras depositum hostibus denegauit; Christianus etiam extra fidelis vocatur. Si de simplicitate consistam, Aristoteles familiarem suum Hermiam, turpiter loco excedere fecit; Christianus nec inimicum suum laedit. Idem Aristotles tam turpiter Alexandro regendo potius adulatur, quam Plato a Dionysio ventris gratia venditatur. Haec ille; et sic de aliis, quos ibi enumerat.</p>
+        <p>Ex dictis intendit manifestare supereminentem fidelium perfectionem in Christo credentium respectu philosophorum Gentilium. Deinde ibidem opponit, quod dicet aliquis, etiam de nostris excidere quosdam a regula disciplinae, et peccare, et malefacere. Cui egregie respondet, quod tales definunt tum Christiani haberi penes nos; philosophi vero illi cum talibus factis in nomine et in honore sapientiae perseuerant: quasi dicat, Christiani peccantes manent inhonorati, quamdiu tales sunt; sed philosophi praedicti manentes in malefactis suis honorantur, et sunt in reuerentia, eoque nomine dignantur et censu.</p>
+        <p>Qualiter autem perfectiones, quae fuerunt in philosophis vmbraticae, scilicet vitiorum detestatio, mundi contemptus, passionum interiorum edomatio, et sic de aliis, quae enumerata fuerunt in priori tractatu, fuerunt in philosophis Christianis secundum rei veritatem, satis patet ex dictis; ipsi enim fuerunt pleni Spiritu Sancto, <quote>qui effugit fictum</quote>. Sap. 1.</p>
+        <p>Et de comparatione philosophorum mundanorum, et philosophorum diuinorum, et de excessu istorum respectu illorum circa veritatem doctrinae, Aug. 18. de ciuit. c. 41. ait, quod Anaxagoras Athenis reus factus sit, quia dixit, solem esse lapidem ardentem, negans vtique Deum. In eadem ciuitate floruit Epicurus, vixitque securus, non credens solem esse Deum, sed nec etiam Iouem. Ibi etiam floruit Aristippus, in voluptate corporis summum bonum ponens. Ibi Antisthenes, virtute animi per se hominem fieri beatum asseuerans, et sic de aliis philosophis varia opinantibus, de quibus loquitur ibi Augustinus.</p>
+        <p>At vero gens illa, ille populus, illa ciuitas, illa respublica, illi Israelitae, quibus credita sunt eloquia Dei, nullo modo pseudoprophetas cum veris prophetis pari licentia confuderunt. Et sequitur. Ipsi eis erant philosophi, hoc est, amatores sapientiae, ipsi sapientes, ipsi Theologi, ipsi prophetae, ipsi Doctores probitatis atque pietatis. Quicumque secundum illos sapuit, et vixit, non secundum homines, sed secundum Deum, qui per ipsos locutus est, sapuit, et vixit. Ibidem. Si prohibitum est sacrilegium, Deus prohibuit; si dictum est, honora patrem tuum etc. Deus iussit etc. Non haec ora humana, sed oracula diuina fuderunt. Haec ille.</p>
+        <p>Ex quibus omnibus manifesta est excellentia diuinorum philosophorum respectu mundanorum, et similiter eminentia istius sapientiae, quia diuina, respectu sapientiae illorum, quae humana est, et diabolica. Ergo sapientia terrena, et animalis exterminanda est; humana vero ordinanda, et dirigenda; diuina appetenda, et acquirenda: <quote>quae amicos Dei et prophetas constituit</quote>. Sapien. 7. Et haec ad praesens de istis dicta sufficiant.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prologus</title>
+        <author ref="#JohnOfWales">John of Wales</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> 
+          <title>Prologus</title> 
+          <date when="2018-04-19">May 19, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority> 
+          <ref>SCTA</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-04-19" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="jwbl-prol">
+        <head>Prologus</head>
+        
+        <p>Cum vani sint homines omnes, in quibus non est scientia Dei. Sap. 13. licet in priori tractatulo fuerint aliqua collecta de vita philosophorum gentilium, et eorum dictis, ac exemplis, quia tamen non fuit in eis scientia Dei vera, nec egerunt gratias ipsi summo Creatori, qui ipsis reuelauit ea, quae nouerunt, euanuerunt in cogitationibus suis, et dicentes se esse sapientes, stulti facti sunt. Rom. 1. Stultus enim factus est omnis homo a scientia sua. Ierem. 10. Ideo expediens esse credidi aliqua colligere de philosophia, siue sapientia sanctorum, qui fuerunt veri philosophi, et vera sapientia illuminati. Philosophari enim est amare Deum, etiam secundum Platonem, vt ait Aug. 8. de Ciuit. c. 8. Et quia sancti fuerunt veri amatores Dei, ideo et veri philosophi. Vnde in laudem iusti Sap. 10. dedit illi scientiam sanctorum. haec enim est scientia animae, scilicet quae illuminat vera illuminatione, de qua Prouerb. 9. vbi non est scientia animae, non est bonum. Et quia in alio tractatu prosecutio facta est de philosophia sub nomine Philosophiae, ideo hic agetur de ea sub nomine Sapientiae, quae merito appropriatur scientiae sanctorum. Philosophia enim est amor sapientiae, et ita sapientia ista dicit maiorem perfectionem, quam illa philosophia vi nominis; vna tamen sumitur pro alia saepe. Et quia sapientia aliquando sumitur in bono, aliquando in malo in sacra scriptura.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

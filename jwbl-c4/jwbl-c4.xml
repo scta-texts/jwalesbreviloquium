@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cap. IV</title>
+        <author ref="#JohnOfWales">John of Wales</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> 
+          <title>Cap. IV</title> 
+          <date when="2018-04-19">May 19, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority> 
+          <ref>SCTA</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-04-19" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="jwbl-c4">
+        <head>CAP. IV</head>
+        <head type="question-title">Quaenam est sapientia sanctorum proprie dicta?</head>
+        
+        <p>Quae vero sint in sapientia philosophorum fidelium, et recte viuentium, ac vtentium ea, Gregor. Moral. X. c. 16. super illud Iob. 12 <quote>deridetur iusti simplicitas</quote>, ita explicat. Iustorum sapientia est nil per ostentationem fingere, sensum verbis aperire, vera vt sunt, diligere, falsa deuitare, bona gratis exhibere, mala libentius tolerare, quam facere, nullam iniuriae vltionem quaerere, pro veritate contumeliam computare lucrum. Sed haec iusti simplicitas deridetur, quia a mundi sapientibus puritatis virtus fatuitas creditur. Haec ille.</p>
+        <p>Nihilominus sapientia fidelium describitur, siue definitur a sanctis multipliciter. Sapientia enim est veritas, qua cernitur, et tenetur summum bonum, ait August. 2. de liber. arbitr. cap. 9. Vel, sapientia est modus animi, quo ipsa librat, vt neque excurrat in nimium, neque infra id, quod est plenum, coarctetur. Augustinus de vita beata ante finem. Vel, Sapientia est via recta ad veritatem ducens. Vel sapientia est regimen vitae humanae. August. lib. 1. de liber. arbitr. c. 9. Vnde ibidem c. 10. ait. Sapiens est, qui in regno mentis omnis libidinis subiugatione est pacatus. Et idem Aug. de vtilitat. credendi c. 12. Sapiens est, cui inest quanta homini inesse potest, ipsius hominis, Deique firmissime percepta cognitio, atque huic cognitioni vita, moresque congruentes. Et ibid. c. 15. Sapiens est, qui ita Deo mente est coniunctus, vt nil interponatur, quod separet.</p>
+        <p>Vel sapientia est sapor, siue amor boni, Aug. de Spiritu et Anima c. 8. et huic concordat Bernard. super Cant. serm. 85. vbi ait, quod sapientia est amor veritatis, vel sapor boni; ipsa enim ordinat, deliberat, et moderatur. Et ser. 50. Sapientia est, per quam res sapiunt, prout sunt, et sapiens est, cui res sapiunt sic, et res diligit, sicut sunt diligendae. Vel, sapientia est insipientiam agnoscere, quae quidem sapientia est de numine Dei. Idem sermon. 20.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

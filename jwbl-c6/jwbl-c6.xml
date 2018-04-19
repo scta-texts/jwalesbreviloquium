@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cap. VI</title>
+        <author ref="#JohnOfWales">John of Wales</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> 
+          <title>Cap. VI</title> 
+          <date when="2018-04-19">May 19, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority> 
+          <ref>SCTA</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-04-19" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="jwbl-c6">
+        <head>CAP. VI</head>
+        <head type="question-title">Vbi inuenitur sapientia ista, et a quibus?</head>
+        <p>Vbi autem inuenitur haec sapientia, et a quibus, et qualiter? Iob. 28. <quote>nescit homo pretium eius, non inuenitur in terra suauiter viuentium; Abyssus dicit: non est in me, et mare loquitur: non est mecum</quote>; quod exponit Gregor. proxime citatus, de hominibus carnalibus, superbis, et cupidis, a quibus sapientia ista absconditur. Matth. 11. <quote>Abscondisti haec a sapientibus, et prudentibus, et reuelasti ea paruulis</quote>. Haec enim inuenitur ab animabus sanctitate puris, et mundis, et sic sub Deo ordinatis: <quote>in animas sanctas se transfert</quote>. Sap. 7 et Eccles. 2. <quote>fili, concupiscens sapientiam serua iustitiam, et Deus praebebit illam tibi</quote>.</p>
+        <p>31	Item inuenitur ab animabus eleuatis a mundi turbinibus, et tumultibus, et sollicitudinibus. Eccles. 38. <quote>Sapientiam scribe in tempore vacuitatis, et qui minoratur actu, sapientiam percipiet, quia sapientia replebitur</quote>.
+          Item inuenitur ab animabus humilitate virtuosis, talibus enim reuelat sapientiam suam Deus: <quote>vbi humilitas, ibi sapientia</quote> Prouer. 11.
+          Item inuenitur ab animabus deuotione feruidis, et contemplatione eleuatis. Sap. 7. <quote>Optaui, et datus est mihi sensus, inuocaui, et venit in me spiritus sapientiae</quote>. Patet ergo huius sapientiae inexplicabilis eminentia. Vnde et omnia, quae dicta sunt prius ad commendationem philosophiae humanae, magis proprie, et verius competunt huic verae sapientiae.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

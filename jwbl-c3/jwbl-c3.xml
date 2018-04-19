@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cap. III</title>
+        <author ref="#JohnOfWales">John of Wales</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> 
+          <title>Cap. III</title> 
+          <date when="2018-04-19">May 19, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority> 
+          <ref>SCTA</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-04-19" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="jwbl-c3">
+        <head>CAP. III.</head>
+        <head type="question-title">Qualiter sapientia, quae consistit in cognitione rerum, est dirigenda, et ordinanda?</head>
+        
+        <p>Prima sapientia, scilicet quae consisit in cognitione rerum, est dirigenda, et ordinanda ad debitum finem; nam contingit ea abuti tumore superbiae, inflando: <quote>scientia enim inflat</quote> 1. Cor. 8. prout ait Bernard super Cantic. Serm. 36. Sicut, inquit, cibus indigestus, qui non habet decoctionem, generat humores malos, et corrumpit corpus; si vero digestus fuerit, nutrit; sic scientia stomacho memoriae indigesta, si non fuerit igne charitatis digesta, malos humores generat: mali enim humores sunt mali mores, et haec scientiae inflatio deiicit, dum extollit. Obstaculum enim veritatis est tumor mentis, quia, dum inflat, obnubilat, ait Gregor. 23. Mor. c. 10. exponens illud Iob. 33. <quote>in quo non es iustificatus</quote>.</p>
+        <p>Item contingit abuti ea, de ipsa praesumendo, et aestimando habere maiorem sapientiam, quam quis habeat. Iob. 38. <quote>Non audebunt contemplari omnes, qui sibi videbantur esse sapientes</quote>, vbi Greg. 27. Mor. in fine. Contemplari Dei sapientiam non possunt, qui sibi sapientes esse videntur, quia tanto ab eius luce longe absunt, quanto sunt apud semetipsos non humiles. Matth. XI. <quote>Abscondisti haec a sapientibus, et prudentibus, et reuelasti ea paruulis</quote>.</p>
+        <p>Item contingit abuti ea ad scienda inutilia, curiose laborando, vel eam turpiter vendendo, vel inaniter exterius gloriando, prout ait Bernard. bene serm. superius dicto. <quote>Qui</quote>, inquit, Apostolus, <quote>putat se aliquid scire, sit stultus, vt fiat sapiens</quote> 1. Cor. 3. Non probat Apostolus multa scientem, sed sciendi modum, scilicet si nescierit, vt sciat, quo ordine, quo fine nosse quaeque oporteat. Quo ordine, vt illud prius, quo maturius ad salutem. Quo studio, vt illud ardentius, quo vehementius ad amorem. Quo fine, vt non ad inanem gloriam, aut curiositatem, aut aliquid simile, sed ad aedificationem tantum suam, vel proximi. Sunt, qui scire volunt, vt sciant, et turpis curiositas est; et sunt qui scire volunt, vt sciantur, et turpis vanitas est; et sunt, qui scire volunt, vt scientiam vendant pro pecunia, vel honoribus, et turpis quaestus est, et sunt, qui scire volunt, vt aedificent, et charitas est. Haec ille.</p>
+        <p>Sicut ergo philosophi nobiliores ordinauerunt philosophiam ad correctionem morum, et philosophati sunt propter finem boni secundum August. 8. de Ciuit. vt habitum est supra in priori tractatu; ita philosophi fideles multo magis debent philosophiam diuinam, siue sapientiam coelitus sibi datam ordinare ad praedicta, et ad gloriam Dei, non praesumendo de sua sapientia, nec se extollendo, vt non stulti habeantur ante Dominum. <quote>Dicentes enim se esse sapientes, stulti facti sunt</quote>. Rom. 1. vt enim ait Gregor. Mor. 20. c. 15 exponens illud Iob. 30. <quote>filii stultorum etc</quote>. Tanto quippe amplius quisque stultus est, quanto conatur exterius sapiens videri, <quote>peribit enim sapientia a sapientibus, et intellectus prudentium abscondetur</quote>. Isa. 29.</p>
+        <p>Item ex quo philosophi nobiles nolebant profiteri se esse sapientes: sed philosophos, id est, studiosos, et sapientiae amatores, arrogantissimum erat se profiteri sapientem, vt dictum est de Pythagora in alio tractatu, et de Socrate, qui dicebat se nihil scire; praesumptuosum est aliquibus minus scientibus iactare se esse sapientes, ideo secundum consilium Apostoli 1. Cor. 3. <quote>Si quis videtur inter vos sapiens esse, stultus fiat, vt sit sapiens</quote>. super quod Gregor. mor. 17. in fine. Si veraciter sapientes esse, atque ipsam sapientiam contemplari appetimus, stultos nos humiliter cognoscamus, derelinquamus noxiam sapientiam, discamus laudabilem fatuitatem. Vnde et Zachaeus, cum <quote>non posset videre Iesum prae turba, ascendit in arborem Sycomorum, vt eum videret</quote>. Luc. 19. Sycomorus ficus fatua interpretatur. Quia qui mundi stultitiam humiliter eligunt, sapientiam Dei subtiliter contemplantur, ait ibi Gregorius. Cum magna ergo discretione est ista sapientia dirigenda et ordinanda, recte vtendo ea, et abusionem omnem praecauendo.</p>
+        <p>Item est sapientia ad seducendum, ad quam cauendam monet Apostolus Coloss. 2. <quote>Videte, ne quis vos seducat per philosophiam, et inanem fallaciam</quote>, et omnis talis sapientia est exterminanda omnino, quia non compatitur secum sapientiam diuinam. Sicut nec cum stultitia est sapientia vera, prout ait Gregor. Mor. 18. c. 22. exponens illud Iob 28. <quote>abyssus</quote>, dicit, <quote>non est in me</quote>, scilicet sapientia: quia iniqua mens, dum esse sapiens carnaliter appetit, stultam se esse ad spiritualia ostendit.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

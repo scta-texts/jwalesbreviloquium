@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cap. II</title>
+        <author ref="#JohnOfWales">John of Wales</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> 
+          <title>Cap. II</title> 
+          <date when="2018-04-19">May 19, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority> 
+          <ref>SCTA</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref> </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-04-19" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="jwbl-c2">
+        <head>CAP. II.</head>
+        <head type="question-title">De sapientia, prout dicitur in malo, et qualis est illa, et quot modis dicitur?</head>
+        <p>Et quia sapientia sumitur aliquando in malo, vt dictum est, quia terrena, animalis, Diabolica, <quote>quae non est de sursum</quote>. Iacob. 3. quae est declinanda, et cauenda a sanctis, licet in ea glorientur sapientes mundi, de qua Gregor. bene Moral. x. c. 16. exponens illud Iobi 13. deridetur iusti simplicitas. Huius (inquit) mundi sapientia est cor machinationibus tegere, sensum verbis velare, quae falsa sunt, vera ostendere; quae vera sunt, falsa demonstrare. Haec nimirum prudentia vsu a iuuenibus scitur, haec a pueris pretio discitur, hanc qui sciunt, caeteros despiciendo, superbiunt; hanc qui nesciunt, subiecti, et timidi in aliis mirantur, quia ab eis haec eadem duplicitatis iniquitas nomine palliata diligitur, dum mentis peruersitas vocatur vrbanitas. Haec sibi obsequentibus praecipit honorum culmina quaerere, adepta temporalis gloriae vanitate gaudere, irrogata ab aliis mala multiplicius reddere, cum vires suppetunt, nullis resistentibus cedere, cum virtutis possibilitas deest, quicquid per malitiam implere non valet, hoc in pacifica bonitate nititur simulare. Haec ille. Et haec sapientia mundana vel est ad malignandum, vel ad nocendum illis modis, quibus potest, verbo, vel facto Ierem. 5. <quote>Sapientes sunt vt faciant mala, bene autem facere nesciunt</quote>. Vel est ad volutandum, vel ad delectandum in delitiis carnis, et ideo vocatur prudentia carnis. Rom. 8. <quote>prudentia carnis mors est</quote>. Vel est ad quaerenda lucra, vel commoda mundana, vel honorum culmina: <quote>prudentiores enim sunt filii huius saeculi filiis lucis</quote> Luc. 16. Et hae omnes sapientiae non sunt de sursum, sed de deorsum: et prima potest dici Diabolica, secunda animalis, tertia terrena</p>
+      </div>
+    </body>
+  </text>
+</TEI>
